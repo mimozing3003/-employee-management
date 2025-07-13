@@ -1,0 +1,19 @@
+{
+  "name": "employee-mangement",
+  "version": "1.0.0",
+  "description": "A full-stack CRUD web application for managing employees and departments at Apollonia Dental Practice. Built with Node.js, Express, MongoDB, and Docker, this app provides a foundation for future employee and customer relationship management features.",
+  "main": "seed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.3"
+  }
+}
