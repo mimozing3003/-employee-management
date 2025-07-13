@@ -56,7 +56,7 @@ A full-stack CRUD web application for managing employees and departments at Apol
    ```bash
    node seed.js
    ```
-7. Open [http://localhost:3000](http://localhost:3000)
+7. Open https://employee-management-alpha-inky.vercel.app/
 
 ## Usage
 - **Departments:** Add new departments, view all, and delete.
