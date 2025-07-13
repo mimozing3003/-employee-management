@@ -147,7 +147,7 @@ MIT
    node server.js
    ```
 
-3. Open [http://localhost:3000](http://localhost:3000) in your browser.
+3. Open https://employee-management-alpha-inky.vercel.app/ in your browser.
 
 ---
 
